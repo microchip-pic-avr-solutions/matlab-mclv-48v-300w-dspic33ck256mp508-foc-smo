@@ -1,6 +1,6 @@
 ![image](images/microchip.jpg) 
 
-## %repoDescritpion%
+## matlab mclv 48v 300w dspic33ck256mp508 foc smo
 
 Board Image if any.
 
