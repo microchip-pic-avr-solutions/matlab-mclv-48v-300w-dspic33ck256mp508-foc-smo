@@ -1,6 +1,6 @@
 ![image](images/microchip.jpg) 
 
-# MATLAB MCLV-48V-300W dsPIC33CK256MP508 FOC OPTICAL ENCODER
+# MATLAB MCLV-48V-300W dsPIC33CK256MP508 FOC SLIDING MODE OBSERVER (SMO)
 
 ## 1. INTRODUCTION
 <p style='text-align: justify;'>
@@ -8,10 +8,10 @@ This document describes the setup requirements for running the Sensorless FOC al
 
 ## 2.	SUGGESTED DEMONSTRATION REQUIREMENTS
 ### 2.1 MATLAB Model Required for the Demonstration
--  MATLAB model can be cloned or downloaded as zip file from the Github repository ([link](https://github.com/microchip-pic-avr-solutions/matlab-mclv-48v-300w-dspic33ck256mp508-foc-opticalencoder)).
+-  MATLAB model can be cloned or downloaded as zip file from the Github repository ([link](https://github.com/microchip-pic-avr-solutions/matlab-mclv-48v-300w-dspic33ck256mp508-foc-smo)).
 
 ### 2.2	Software Tools Used for Testing the MATLAB/Simulink Model
-1.	MPLAB X IDE and IPE (v6.0)
+1.	MPLAB X IDE and IPE (v6.00)
 2.	XC16 compiler (v2.00)
 3.	MATLAB R2022b
 4.	Required MATLAB add-on packages
